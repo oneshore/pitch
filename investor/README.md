@@ -3,6 +3,7 @@ One Shore Executive Summary
 
 Overview:
 =========
+
 Test Automation Services
 ------------------------
 
@@ -15,6 +16,7 @@ Test Automation Services
 
 Problem:
 ========
+
 Software Testing is Hard
 ------------------------
 
@@ -33,6 +35,7 @@ Software Testing is Hard
 
 Solution:
 =========
+
 Services + Integration + Dashboard
 ----------------------------------
 
@@ -48,6 +51,7 @@ Services + Integration + Dashboard
 
 Target Market
 =============
+
 Rapidly Growing Startups & Large Enterprises
 --------------------------------------------
 
@@ -60,6 +64,7 @@ Rapidly Growing Startups & Large Enterprises
 
 Competitive Advantages:
 =======================
+
 Expertise & Single Source of Truth
 ----------------------------------
 
@@ -74,6 +79,7 @@ Expertise & Single Source of Truth
 
 Business Model:
 ===============
+
 Freemium Services + Value Add
 -----------------------------
 - Provide cloud infrastructure to run tests for free
@@ -90,6 +96,7 @@ Freemium Services + Value Add
 
 Costs:
 ======
+
 Acquiring Customers + Scaling
 -----------------------------
 
@@ -102,6 +109,7 @@ Acquiring Customers + Scaling
 
 Projections:
 ============
+
 $1M revenue in first year
 -------------------------
 
@@ -111,6 +119,7 @@ $1M revenue in first year
 
 Team:
 =====
+
 - Aaron Evans - expert in software testing
 - Need non-technical co-founder to handle customer sales & business side
 - Have a great network bench of testers I could bring on to help with work
@@ -119,6 +128,7 @@ Team:
 
 Ask:
 ====
+
 - $100K for 10% for 6 months
 - First option for 10% more after 1 year growth
 - Payback if not interested in continuing
