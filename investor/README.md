@@ -4,8 +4,7 @@ One Shore Executive Summary
 Overview:
 =========
 
-Test Automation Services
-------------------------
+## Test Automation Services
 
 - Freelance test consultantancy - Aaron Evans
 - 20 year veteran industy expert
@@ -17,8 +16,7 @@ Test Automation Services
 Problem:
 ========
 
-Software Testing is Hard
-------------------------
+## Software Testing is Hard
 
 - Speed of delivery is a differentiator
 - But so is quality -- bad reviews or security breaches can be devastating
@@ -36,8 +34,7 @@ Software Testing is Hard
 Solution:
 =========
 
-Services + Integration + Dashboard
-----------------------------------
+## Services + Integration + Dashboard
 
 - Companies need someone to advise them on how testing fits in their process
 - Train employees in testing best practices
@@ -52,8 +49,7 @@ Services + Integration + Dashboard
 Target Market
 =============
 
-Rapidly Growing Startups & Large Enterprises
---------------------------------------------
+## Rapidly Growing Startups & Large Enterprises
 
 - Worked with small development shops, rapidly growing startups, and large enterprises
 - Small shops are ok for an individual consultant
@@ -65,8 +61,7 @@ Rapidly Growing Startups & Large Enterprises
 Competitive Advantages:
 =======================
 
-Expertise & Single Source of Truth
-----------------------------------
+## Expertise & Single Source of Truth
 
 - Leading expert in software testing field
 - Solution would incorporate all levels of testing
@@ -80,8 +75,8 @@ Expertise & Single Source of Truth
 Business Model:
 ===============
 
-Freemium Services + Value Add
------------------------------
+## Freemium + Value Add Services
+
 - Provide cloud infrastructure to run tests for free
 - Collect reports from all types of tests
 - Display a dashboard so leadership can see progress
@@ -97,8 +92,7 @@ Freemium Services + Value Add
 Costs:
 ======
 
-Acquiring Customers + Scaling
------------------------------
+## Acquiring Customers + Scaling
 
 - I'm a one man shop
 - If I could clone myself, I'd have multiple job offers every month
@@ -110,8 +104,7 @@ Acquiring Customers + Scaling
 Projections:
 ============
 
-$1M revenue in first year
--------------------------
+## $1M revenue in first year
 
 - $1K new service per month
 - $100K new value add per month
@@ -129,8 +122,10 @@ Team:
 Ask:
 ====
 
-- $100K for 10% for 6 months
+## $100K for 10% for 6 months
+
+- Use initial money to bring on co-founder
 - First option for 10% more after 1 year growth
 - Payback if not interested in continuing
 - Committed to $1M growth in first year
-- Use initial money to bring on co-founder
+
