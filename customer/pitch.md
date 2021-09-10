@@ -48,10 +48,10 @@ Challenges:
  - How to fit testing into devops pipeline?
  - Business can't leverage tests for decisionmaking
 
- --> Continous feedback loop
- --> Unified testing for all phases of delivery
- --> Actionable decisionmaking dashboard
- --> Machine learning from test data
+ #### --> Continous feedback loop
+ #### --> Unified testing for all phases of delivery
+ #### --> Actionable decisionmaking dashboard
+ #### --> Machine learning from test data
 
 
 
@@ -92,8 +92,8 @@ What we don't do:
  - Replace or substitute for you test team
  - Proprietary tools 
 
- -->  Teach to fish
- -->  No vendor lock-in
+ #### -->  Teach to fish
+ #### -->  No vendor lock-in
 
 
 
@@ -148,13 +148,13 @@ What working with us looks like:
  - Use open source tools for testing
  - Continuous feedback look to improve testing
 
---> Initial consulting assessment
---> Help implementing recommendations
---> Training & Coaching
---> Use open source tools
---> Integrate testing into delivery pipeline
---> Test decision Dashboard
---> Machine learning from test results
+#### --> Initial consulting assessment
+#### --> Help implementing recommendations
+#### --> Training & Coaching
+#### --> Use open source tools
+#### --> Integrate testing into delivery pipeline
+#### --> Test decision Dashboard
+#### --> Machine learning from test results
 
 
 
@@ -166,5 +166,5 @@ What working with us is not like:
  - Not a tools vendor
  - Not delivering tests and leaving
 
---> We want to be your long term partner
---> We don't want you to be dependent on us
+#### --> We want to be your long term partner
+#### --> We don't want you to be dependent on us
